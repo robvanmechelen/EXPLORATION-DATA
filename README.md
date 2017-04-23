@@ -1,2 +1,3 @@
 # EXPLORATION-DATA
-courserta course april 2017
+coursera course april 2017
+rob van mechelen
